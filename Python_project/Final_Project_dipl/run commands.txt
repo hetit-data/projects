@@ -1,5 +1,0 @@
-first activate venv-virtual env 
-
-py manage.py runserver
-
-if error check about dependencies download all required dependencies
